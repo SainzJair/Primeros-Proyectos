@@ -1,3 +1,7 @@
 Hola estoy haciendo mis primeras practicas para realizar mis proyectos web
 
+<<<<<<< HEAD:hola.txt
 hola
+=======
+hice un cambio
+>>>>>>> 1eab56ddf01e89e1762d8a1f1220e3bd6626e2af:Nota.txt
