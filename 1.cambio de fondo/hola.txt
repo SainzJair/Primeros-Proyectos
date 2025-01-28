@@ -1,7 +1,3 @@
-Hola estoy haciendo mis primeras practicas para realizar mis proyectos web
+Para visualizar esta practica copia este link y pégalo en tu navegador
 
-<<<<<<< HEAD:hola.txt
-hola
-=======
-hice un cambio
->>>>>>> 1eab56ddf01e89e1762d8a1f1220e3bd6626e2af:Nota.txt
+https://sainzjair.github.io/Primeros-Proyectos/1.cambio%20de%20fondo/index.html
