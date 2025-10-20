@@ -1,0 +1,18 @@
+.borde{
+  background-color:bisque   ;
+  display: grid;
+  width: 500px;
+  padding: 2rem;
+  grid-template-rows: repeat(6, 3fr);
+  justify-content: center;
+
+
+
+  
+}
+
+
+
+.Lineal{
+    background-image: linear-gradient(#ec0c0c00, #563d7c);
+}
